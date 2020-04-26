@@ -4,5 +4,5 @@ hxxp://178.62.202.125/yotuubebins.sh     253f960293b8bcf552f09fe1805dea6b       
 hxxp://45.14.151.249/ARES.sh             85A337912E1F6EC79A064BBC28D9DF0E             45.95.168.244
 http://115.159.202.202:89/lin2.4         DC500A55EC0C95CCB8A6D912CCA85C62             115.159.202.202
 hxxp://115.159.202.202:89/wrt            9A14F9BA9434184CD5EA24AF3A9FE52C             115.159.202.202
-http://idip.do.am/ircd.pdf               5db11ef54dec35a30bd663aad379084b             200.216.31.148
+hxxp://idip.do.am/ircd.pdf               5db11ef54dec35a30bd663aad379084b             200.216.31.148
 
